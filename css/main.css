@@ -42,6 +42,14 @@ ul li a {
   margin: .3rem;
 }
 
+ul li a:.current {
+  background-color: #000;
+}
+
+ul li a:hover {
+
+}
+
 main {
   background-color: #780;
 }
