@@ -10,12 +10,18 @@ html {
 body {
   background-color: #933;
   font-family: Georgia, serif;
+}
 
+header {
+  background-color: #009664;
 }
 
 h1 {
   font-family: "Sigmar One", sans-serif;
+  font-size: 3rem;
+  color: #fff;
   background-color: #963;
+  text-align: center;
 }
 
 ul {
@@ -23,7 +29,17 @@ ul {
 }
 
 ul li {
-  background-color: #867;
+  display: inline-block;
+  background-color: #fff;
+}
+
+ul li a {
+  font-size: 1.125rem;
+  text-decoration: none;
+  list-style-type: none;
+  padding: .2em .5em .3em;
+  border-radius: 4px;
+  margin: .3rem;
 }
 
 main {
@@ -31,6 +47,9 @@ main {
 }
 
 h2 {
+  font-family: "Sigmar One", sans-serif;
+  font-size: 1.875rem;
+  color: #fff;
   background-color: #945;
 }
 
@@ -45,5 +64,6 @@ main p {
 
 footer {
   text-align: center;
+  font-size: .75rem;
   background-color: #748;
 }
