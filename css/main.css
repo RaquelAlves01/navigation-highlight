@@ -25,19 +25,19 @@ h1 {
 }
 
 ul {
-  background-color: #929;
+  text-align: center;
 }
 
 ul li {
   display: inline-block;
-  background-color: #fff;
 }
 
 ul li a {
   font-size: 1.125rem;
+  background-color: #fff;
   text-decoration: none;
   list-style-type: none;
-  padding: .2em .5em .3em;
+  border: 10px solid #fff;
   border-radius: 4px;
   margin: .3rem;
 }
