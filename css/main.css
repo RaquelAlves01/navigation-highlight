@@ -42,8 +42,14 @@ ul li a {
   margin: .3rem;
 }
 
-ul li a:.current {
+.current {
   background-color: #000;
+  font-size: 1.125rem;
+  text-decoration: none;
+  list-style-type: none;
+  border: 10px solid #000;
+  border-radius: 4px;
+  margin: .3rem;
 }
 
 ul li a:hover {
