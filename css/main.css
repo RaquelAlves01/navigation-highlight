@@ -1,7 +1,43 @@
 html {
   box-sizing: border-box;
+  background-color: #000;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+body {
+  background-color: #933;
+  font-family: Georgia, serif;
+  
+}
+
+h1 {
+  font-family: "Sigmar One", sans-serif;
+  background-color: #963;
+}
+
+ul {
+  background-color: #929;
+}
+
+ul li {
+  background-color: #867;
+}
+
+main {
+  background-color: #780;
+}
+
+h2 {
+  background-color: #945;
+}
+
+main p {
+  background-color: #954;
+}
+
+footer {
+  background-color: #748;
 }
