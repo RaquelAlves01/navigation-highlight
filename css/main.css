@@ -73,5 +73,7 @@ main p {
 footer {
   text-align: center;
   font-size: .75rem;
+  padding: 0 0 .4em;
+  margin : 0 0 .2em;
   background-color: #748;
 }
