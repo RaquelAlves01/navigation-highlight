@@ -84,8 +84,11 @@ img {
   margin: .4em;
 }
 
-main p {
-  background-color: #954;
+p {
+  background-color: #fff;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0 0 .4em;
 }
 
 footer {
