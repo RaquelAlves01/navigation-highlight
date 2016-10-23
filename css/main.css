@@ -37,7 +37,8 @@ header nav ul li {
 
 header nav ul li a {
   font-size: 1.125rem;
-  background-color: #fff;
+  background-color: #b2a212;
+  color: #fff;
   text-decoration: none;
   list-style-type: none;
   border: 10px solid #fff;
