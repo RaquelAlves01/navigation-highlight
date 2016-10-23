@@ -97,7 +97,11 @@ p {
 footer {
   text-align: center;
   font-size: .75rem;
-  padding: 0 0 .4em;
-  margin : 0 0 .2em;
-  background-color: #748;
+  margin: .3em;
+  padding:  0 10px;
+  background-color: #ffe500;
+}
+
+footer small {
+  
 }
