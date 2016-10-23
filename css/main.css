@@ -24,8 +24,10 @@ header h1 {
   margin: 0;
 }
 
-ul {
+header nav ul {
   text-align: center;
+  margin: .3em .5em;
+  padding: 0;
 }
 
 ul li {
