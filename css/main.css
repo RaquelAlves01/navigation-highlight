@@ -68,7 +68,8 @@ header nav ul li a:hover {
 }
 
 main {
-  background-color: #780;
+  background-color: #fff;
+  padding: 2em .5em .3em;
 }
 
 h2 {
