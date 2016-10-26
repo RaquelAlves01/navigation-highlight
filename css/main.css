@@ -92,8 +92,9 @@ img {
 
 p {
   background-color: #fff;
+  color: #2f2d13;
   line-height: 1.5;
-  margin: 0;
+  margin: .4em 0;
   padding: 0 0 .4em;
 }
 
