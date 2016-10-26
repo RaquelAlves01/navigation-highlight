@@ -108,3 +108,7 @@ footer {
   padding: 10px 0;
   background-color: #ffe500;
 }
+
+footer small {
+  font-size: .75rem;
+}
