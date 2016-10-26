@@ -98,6 +98,10 @@ p {
   padding: 0 0 .4em;
 }
 
+p b {
+  font-weight: bold;
+}
+
 footer {
   text-align: center;
   font-size: .75rem;
