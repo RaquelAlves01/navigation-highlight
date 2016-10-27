@@ -10,6 +10,10 @@ body {
   background-color: #ffe500;
   font-family: Georgia, serif;
   margin: 0;
+}
+
+header {
+  margin: 0;
   padding: 0;
 }
 
@@ -23,9 +27,9 @@ h1 {
   margin: 0;
 }
 
-header nav ul {
+nav ul {
   text-align: center;
-  margin: 0 0 .5em;
+  margin: 0 0 .2em;
   padding: 0;
 }
 
@@ -87,7 +91,7 @@ h2 {
 
 img {
   display: block;
-  width: 100%
+  width: 100%;
 }
 
 p {
