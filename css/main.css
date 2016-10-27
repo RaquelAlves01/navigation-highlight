@@ -87,26 +87,25 @@ h2 {
 
 img {
   display: block;
-  width: 100%;
-  margin: .4em;
+  width: 100%
 }
 
 p {
   background-color: #fff;
   color: #2f2d13;
   line-height: 1.5;
-  margin: .6em .4em .4em;
+  margin: .4em;
   padding: .2em 0;
 }
 
-p b {
+b {
   font-weight: bold;
 }
 
 footer {
   text-align: center;
-  margin: .1em;
-  padding: 10px 0;
+  margin: .2em;
+  padding: 7px 0;
   background-color: #ffe500;
 }
 
